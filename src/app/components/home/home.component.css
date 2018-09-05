@@ -1,0 +1,8 @@
+.container { background-color: #ecf2f8; }
+.home { padding: 200px 20px; }
+.home .btn {
+	background-color: #336699;
+	text-transform: uppercase;
+	margin-bottom: 18px;
+	letter-spacing: 1px;
+}

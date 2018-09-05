@@ -1,5 +1,6 @@
-.navbar {
-	background-color: rgba(64, 80,224, 0.05);
+.navbar { 
+	background-color: #336699;
+	color: white;
 }
 .title {
 	text-align: center;
