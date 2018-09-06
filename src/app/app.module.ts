@@ -8,13 +8,19 @@ import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HomeComponent } from './components/home/home.component';
 import { AppRoutingModule } from './/app-routing.module';
+import { RecipesComponent } from './components/recipes/recipes.component';
+import { CategoriesComponent } from './components/categories/categories.component';
+import { AddRecipeComponent } from './components/add-recipe/add-recipe.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    HomeComponent
+    HomeComponent,
+    RecipesComponent,
+    CategoriesComponent,
+    AddRecipeComponent
   ],
   imports: [
     BrowserModule,
